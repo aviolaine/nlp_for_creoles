@@ -1,0 +1,39 @@
+APiCS_feature_number Feature_name
+13 Gender distinctions in personal pronouns
+7 Order of relative clause and noun
+29 Indefinite articles
+58 Alignment of case marking of full noun phrases
+73 Predicative noun phrases
+103 Polar questions
+100 Negative morpheme types
+59 Alignment of case marking of personal pronouns
+2 Order of possessor and possessum
+33 Distance contrasts in demonstratives
+71 Noun phrase conjunction and comitative
+76 Predicative noun phrases and predicative locative phrases
+18 Politeness distinctions in second-person pronouns
+72 Nominal and verbal conjunction
+4 Order of adposition and noun phrase
+54 Suppletion according to tense and aspect
+70 Comitatives and instrumentals
+36 Sortal numeral classifiers
+6 Order of cardinal numeral and noun
+8 Order of degree word and adjective
+56 The prohibitive
+60 Ditransitive constructions with ‘give’
+91 Applicative constructions
+23 Expression of nominal plural meaning
+92 Subject relative clauses
+62 Expression of pronominal subjects
+32 Pronominal and adnominal demonstratives
+77 Predicative possession
+22 Occurrence of nominal plural markers
+1 Order of subject, object, and verb
+12 Position of interrogative phrases in content questions
+38 Marking of possessor noun phrases
+42 Comparative standard marking
+3 Order of adjective and noun
+15 Inclusive/exclusive distinction in independent personal pronouns
+21 Indefinite pronouns
+28 Definite articles
+5 Order of demonstrative and noun
